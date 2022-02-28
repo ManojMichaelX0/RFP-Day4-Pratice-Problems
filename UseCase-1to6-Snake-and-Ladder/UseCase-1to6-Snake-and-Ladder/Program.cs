@@ -64,7 +64,7 @@ namespace SnakeAndLadder
 
         public static void Main(string[] args)
         {
-            // one players atarting on square one
+            // one players starting on square one
             int[] players = { 1 };
             while (true)
             {
